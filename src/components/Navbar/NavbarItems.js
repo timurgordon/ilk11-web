@@ -1,6 +1,6 @@
-export const MenuItems = [
+export const NavbarItems = [
     {
-        title: "selam ela",
+        title: "ilk11",
         url: "ilk11.futbol",
         cName: "nav-links"
     },
@@ -22,6 +22,6 @@ export const MenuItems = [
     {
         title: "Uye Ol",
         url: "ilk11.futbol",
-        cName: "nav-links"
+        cName: "nav-links-mobile"
     },
 ]
