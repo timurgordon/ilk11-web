@@ -7,8 +7,10 @@ class Home extends Component {
         return(
             <div className="Home">
                 <div className="segment">
-                    <h1 className="home-heading">Takimini kur </h1>
-                    <h1 className="home-heading">Takimini kur </h1>
+                    <div>
+                        <h1 className="home-heading">ilk11.futbol</h1>
+                        <p className="home-body"> Site yapım aşamasında. </p>
+                    </div>
                 </div>
                 <div className="segment-1">
                     <img className="corner-img" src={corner}></img>

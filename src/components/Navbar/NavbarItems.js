@@ -5,22 +5,22 @@ export const NavbarItems = [
         cName: "nav-links"
     },
     {
-        title: "Mac Bul",
+        title: "Maçlar",
         url: "ilk11.futbol",
         cName: "nav-links"
     },
     {
-        title: "Mac Duzenle",
+        title: "Halısahalar",
         url: "ilk11.futbol",
         cName: "nav-links"
     },
     {
-        title: "Halisahalar",
+        title: "Profil",
         url: "ilk11.futbol",
         cName: "nav-links"
     },
     {
-        title: "Uye Ol",
+        title: "Üye Ol",
         url: "ilk11.futbol",
         cName: "nav-links-mobile"
     },
